@@ -20,6 +20,13 @@ Click the icon, type, click away. That's it.
 
 Node sits next to your Wi‑Fi and Bluetooth icons. Click it and a native macOS panel drops down with a single text box. Write anything. Click anywhere else and it closes, just like the system menus. Your note stays put across quits, restarts and reboots.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png">
+    <img src="docs/screenshot-light.png" width="366" alt="The Node panel showing a short note">
+  </picture>
+</p>
+
 ## ✨ Features
 
 |   |   |
